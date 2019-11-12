@@ -38,3 +38,5 @@ while True:
 Made by Raphael Torres https://twitter.com/raphaeltorresme
 
 Make a donation to the project https://tippin.me/@raphaeltorresme
+
+LICENSE https://github.com/capslockone/tippin/blob/master/LICENSE.md
